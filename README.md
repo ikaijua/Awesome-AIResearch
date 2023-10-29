@@ -11,6 +11,7 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 | TidyBot | A household cleanup robot done by [StanfordAILab](https://twitter.com/StanfordAILab).|[GitHub](https://github.com/jimmyyhwu/tidybot) ![GitHub Repo stars](https://img.shields.io/github/stars/jimmyyhwu/tidybot?style=social) | 2023 |
+| Eureka | Human-Level Reward Design via Coding Large Language Models, such as GPT-4, to perform in-context evolutionary optimization over reward code. Harnessing them to learn complex low-level manipulation tasks, such as dexterous pen spinning |[Github](https://github.com/eureka-research/Eureka) ![GitHub Repo stars](https://img.shields.io/github/stars/eureka-research/Eureka?style=social)|2023|
 
 ### Summarization
 | Name | Description | Links | Publish Time|
