@@ -14,6 +14,11 @@ This repo collects AI-related research.
 | Eureka | Human-Level Reward Design via Coding Large Language Models, such as GPT-4, to perform in-context evolutionary optimization over reward code. Harnessing them to learn complex low-level manipulation tasks, such as dexterous pen spinning |[Github](https://github.com/eureka-research/Eureka) ![GitHub Repo stars](https://img.shields.io/github/stars/eureka-research/Eureka?style=social)|2023|
 | NOIR | Neural Signal Operated Intelligent Robots for Everyday Activities. Stanford University | [Project website](https://noir-corl.github.io/)|2023|
 
+### LMMs Benchmark
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+| mathvista | A benchmark designed to combine challenges from diverse mathematical and visual tasks. By UCLA and Microsoft Research| [Project website](https://mathvista.github.io/)| 2023|
+
 ### Summarization
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
