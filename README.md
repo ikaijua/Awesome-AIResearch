@@ -18,6 +18,7 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 | mathvista | A benchmark designed to combine challenges from diverse mathematical and visual tasks. By UCLA and Microsoft Research| [Project website](https://mathvista.github.io/)| 2023|
+| hallucination-leaderboard | Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents. |[Github](https://github.com/vectara/hallucination-leaderboard) ![GitHub Repo stars](https://img.shields.io/github/stars/vectara/hallucination-leaderboard?style=social)| 2023 |
 
 ### Summarization
 | Name | Description | Links | Publish Time|
