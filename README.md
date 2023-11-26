@@ -36,6 +36,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 | GeneFace | Generalized and High-Fidelity 3D Talking Face Synthesis.  Zhejiang University, ByteDance |[Github](https://github.com/yerfor/GeneFace) ![GitHub Repo stars](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)|2023|
 
+### Video Comprehension
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|PKU-YuanGroup/Video-LLaVA| Video-LLaVA: Learning United Visual Representation by Alignment Before Projection | [Github](https://github.com/PKU-YuanGroup/Video-LLaVA) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA?style=social)|2023|
+
 ### Star History
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AIResearch&type=Date)](https://star-history.com/#ikaijua/Awesome-AIResearch&Date)
