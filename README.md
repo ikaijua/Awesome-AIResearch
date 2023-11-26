@@ -30,6 +30,7 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 | ProPainter |Improving Propagation and Transformer for Video Inpainting. S-Lab, Nanyang Technological University|[Github](https://github.com/sczhou/ProPainter) ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/ProPainter?style=social)|2023|
 | Emu Edit/Emu video| Emu Edit is an AI generated image model that supports modifying local content of images through text; Emu Video is an AI generated video model that also supports text modification of local content in videos.|[Project website](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)|2023|
+| PixelDance | A novel approach based on diffusion models that incorporates image instructions for both the first and last frames in conjunction with text instructions for video generation, ByteDance Research | [Project website](https://makepixelsdance.github.io/)|2023|
 
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
