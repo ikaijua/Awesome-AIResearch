@@ -48,6 +48,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 | cleanlab | The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. |[Github](https://github.com/cleanlab/cleanlab) ![GitHub Repo stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social)||
 
+### 3D Generate 
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+| DMV3D | Denoising Multi-View Diffusion using 3D Large Reconstruction Model. A single-stage approach for high-quality text-to-3D generation and single-image reconstruction in 30s. By Adobe, Stanford, etc|[Project website](https://justimyhxu.github.io/projects/dmv3d/)|2023|
+
 ### Star History
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AIResearch&type=Date)](https://star-history.com/#ikaijua/Awesome-AIResearch&Date)
