@@ -40,7 +40,7 @@ This repo collects AI-related research.
 | GeneFace | Generalized and High-Fidelity 3D Talking Face Synthesis.  Zhejiang University, ByteDance |[Github](https://github.com/yerfor/GeneFace) ![GitHub Repo stars](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)|2023|
 |GAIA|Zero-shot talking avatar generation aims at synthesizing natural talking videos from speech and a single portrait image. GAIA (Generative AI for Avatar), which eliminates the domain priors in talking avatar generation. By Microsoft|[Project Website](https://microsoft.github.io/GAIA/)|2023|
 
-### Video Comprehension
+### Video Comprehensio
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 |PKU-YuanGroup/Video-LLaVA| Video-LLaVA: Learning United Visual Representation by Alignment Before Projection | [Github](https://github.com/PKU-YuanGroup/Video-LLaVA) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA?style=social)|2023|
@@ -54,6 +54,12 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 | DMV3D | Denoising Multi-View Diffusion using 3D Large Reconstruction Model. A single-stage approach for high-quality text-to-3D generation and single-image reconstruction in 30s. By Adobe, Stanford, etc|[Project website](https://justimyhxu.github.io/projects/dmv3d/)|2023|
+
+### Object Dectection
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|open-mmlab/mmdetection|MMDetection is an open source object detection toolbox based on PyTorch. |[Github](https://github.com/open-mmlab/mmdetection) ![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social)||
+
 
 ### Star History
 
