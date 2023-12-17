@@ -65,6 +65,12 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 | Upscale-A-Video |  Upscale-A-Video is a diffusion-based model that upscales videos by taking the low-resolution video and text prompts as inputs. S-Lab, Nanyang Technological University|[Github](https://github.com/sczhou/Upscale-A-Video) ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/Upscale-A-Video?style=social)|2023|
 
+### Virtual Try-On
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+| OutfitAnyone |  Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person. Institute for Intelligent Computing, Alibaba Group|[Github](https://github.com/HumanAIGC/OutfitAnyone) ![GitHub Repo stars](https://img.shields.io/github/stars/HumanAIGC/OutfitAnyone?style=social)|2023|
+
+
 ### Star History
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AIResearch&type=Date)](https://star-history.com/#ikaijua/Awesome-AIResearch&Date)
