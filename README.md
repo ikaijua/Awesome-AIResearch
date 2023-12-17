@@ -70,6 +70,10 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 | OutfitAnyone |  Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person. Institute for Intelligent Computing, Alibaba Group|[Github](https://github.com/HumanAIGC/OutfitAnyone) ![GitHub Repo stars](https://img.shields.io/github/stars/HumanAIGC/OutfitAnyone?style=social)|2023|
 
+### AI Muisc Generation
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+| StemGen |  StemGen: A music generation model that listens, ByteDance Inc|[Project Website](https://julian-parker.github.io/stemgen/) |2023|
 
 ### Star History
 
