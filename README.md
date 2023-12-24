@@ -75,6 +75,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 | StemGen |  StemGen: A music generation model that listens, ByteDance Inc|[Project Website](https://julian-parker.github.io/stemgen/) |2023|
 
+### RAG(Retrieval-Augmented Generation)
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|Retrieval-Augmented Generation for Large Language Models: A Survey| Shanghai Research Institute for Intelligent Autonomous Systems|[URL](https://arxiv.org/abs/2312.10997)|2023|
+
 ### Star History
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AIResearch&type=Date)](https://star-history.com/#ikaijua/Awesome-AIResearch&Date)
