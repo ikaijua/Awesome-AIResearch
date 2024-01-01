@@ -9,12 +9,14 @@ This repo collects AI-related research.
 | NOIR | Neural Signal Operated Intelligent Robots for Everyday Activities. Stanford University | [Project website](https://noir-corl.github.io/)|2023|
 | robotics-survey/Awesome-Robotics-Foundation-Models | This repository is largely based on the following paper: [Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/pdf/2312.07843.pdf)  By Stanford University, Princeton University, UT Austin, NVIDIA, Scaled Foundations, Google DeepMind, TU Berlin, Shanghai Jiao Tong University| [Github](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) ![GitHub Repo stars](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models?style=social)|2023|
 | JeffreyYH/robotics-fm-survey | Survey Paper of foundation models for robotics. paper: [oward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782) By CMU, Bosch Center for AI, SAIR Lab, Georgia Tech, FAIR at Meta, UC San Diego, Google DeepMind |[Github](https://github.com/JeffreyYH/robotics-fm-survey) ![GitHub Repo stars](https://img.shields.io/github/stars/JeffreyYH/robotics-fm-survey?style=social)|2023|
+
 ### LMMs Benchmark
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 | mathvista | A benchmark designed to combine challenges from diverse mathematical and visual tasks. By UCLA and Microsoft Research| [Project website](https://mathvista.github.io/)| 2023|
 | hallucination-leaderboard | Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents. |[Github](https://github.com/vectara/hallucination-leaderboard) ![GitHub Repo stars](https://img.shields.io/github/stars/vectara/hallucination-leaderboard?style=social)| 2023 |
 | GAIA| A benchmark for General AI Assistants. By Meta-FAIR, Meta-GenAI, HuggingFace and AutoGPT|[Project website](https://huggingface.co/papers/2311.12983)|2023|
+|microsoft/promptbench|A Unified Library for Evaluating and Understanding Large Language Models.|[Github](https://github.com/microsoft/promptbench) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/promptbench?style=social)|2023|
 
 ### Summarization
 | Name | Description | Links | Publish Time|
