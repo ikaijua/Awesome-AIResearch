@@ -1,10 +1,4 @@
-English | [中文](README-CN.md)
-
 This repo collects AI-related research. 
-
-## All Categories
-- [Robot](#robot)
-
 
 ### Robot
 
@@ -86,3 +80,7 @@ This repo collects AI-related research.
 
 
 <a href="https://www.buymeacoffee.com/AwesomeAITools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+如果您喜欢这个项目，可以赞赏一下支持我们，谢谢您的支持！
+
+<img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="20%" height="20%" />   
