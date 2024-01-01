@@ -28,6 +28,7 @@ This repo collects AI-related research.
 | Emu Edit/Emu video| Emu Edit is an AI generated image model that supports modifying local content of images through text; Emu Video is an AI generated video model that also supports text modification of local content in videos.|[Project website](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)|2023|
 | PixelDance | A novel approach based on diffusion models that incorporates image instructions for both the first and last frames in conjunction with text instructions for video generation. By ByteDance Research | [Project website](https://makepixelsdance.github.io/)|2023|
 | MagicDance | Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer. By University of Southern California| [Github](https://github.com/Boese0601/MagicDance) ![GitHub Repo stars](https://img.shields.io/github/stars/Boese0601/MagicDance?style=social)| 2023 |
+| TencentARC/ MotionCtrl|A Unified and Flexible Motion Controller for Video Generation|[Github](https://github.com/TencentARC/MotionCtrl) ![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/MotionCtrl?style=social)| 2023 |
 
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
