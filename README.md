@@ -58,6 +58,7 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 | DMV3D | Denoising Multi-View Diffusion using 3D Large Reconstruction Model. A single-stage approach for high-quality text-to-3D generation and single-image reconstruction in 30s. By Adobe, Stanford, etc|[Project website](https://justimyhxu.github.io/projects/dmv3d/)|2023|
+| Make-A-Character | High Quality Text-to-3D Character Generation within Minutes. By Alibaba| [Github](https://github.com/Human3DAIGC/Make-A-Character) ![GitHub Repo stars](https://img.shields.io/github/stars/Human3DAIGC/Make-A-Character?style=social)|2023|
 
 ### Object Dectection
 | Name | Description | Links | Publish Time|
