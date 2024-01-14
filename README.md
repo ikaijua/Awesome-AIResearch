@@ -85,6 +85,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |Retrieval-Augmented Generation for Large Language Models: A Survey| Shanghai Research Institute for Intelligent Autonomous Systems|[URL](https://arxiv.org/abs/2312.10997)|2023|
 
+### OCR
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|surya|Surya is a multilingual document OCR toolkit. It can do: Accurate line-level text detection|[Github](https://github.com/VikParuchuri/surya) ![GitHub Repo stars](https://img.shields.io/github/stars/VikParuchuri/surya?style=social)|2024|
+
 ### Star History
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AIResearch&type=Date)](https://star-history.com/#ikaijua/Awesome-AIResearch&Date)
