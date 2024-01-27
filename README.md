@@ -58,6 +58,7 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 | AnyText |Multilingual Visual Text Generation And Editing. By Alibaba Group|[Github](https://github.com/tyxsspa/AnyText) ![GitHub Repo stars](https://img.shields.io/github/stars/tyxsspa/AnyText?style=social)|2023|
+|InstantID| InstantID is a new state-of-the-art tuning-free method to achieve ID-Preserving generation with only single image, supporting various downstream tasks.|[Github](https://github.com/InstantID/InstantID) ![GitHub Repo stars](https://img.shields.io/github/stars/InstantID/InstantID?style=social)|2023|
 
 ### Video Generate
 | Name | Description | Links | Publish Time|
