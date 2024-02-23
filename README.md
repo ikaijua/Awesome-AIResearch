@@ -76,6 +76,7 @@ This repo collects AI-related research.
 | TencentARC/ MotionCtrl|A Unified and Flexible Motion Controller for Video Generation|[Github](https://github.com/TencentARC/MotionCtrl) ![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/MotionCtrl?style=social)| 2023 |
 | DreaMoving |A Human Video Generation Framework based on Diffusion Models. By Alibaba Group|[Github](https://github.com/dreamoving/dreamoving-project)  ![GitHub Repo stars](https://img.shields.io/github/stars/dreamoving/dreamoving-project?style=social)|2023|
 | magicvideov2|Multi-Stage High-Aesthetic Video Generation by ByteDance|[URL](https://magicvideov2.github.io/)|2024|
+| Boximator |Generating Rich and Controllable Motions for Video Synthesis. By ByteDance|[URL](https://boximator.github.io/)|2024|
 
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
