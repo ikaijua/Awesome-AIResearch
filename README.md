@@ -72,9 +72,10 @@ This repo collects AI-related research.
 | ProPainter |Improving Propagation and Transformer for Video Inpainting. S-Lab, Nanyang Technological University|[Github](https://github.com/sczhou/ProPainter) ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/ProPainter?style=social)|2023|
 | Emu Edit/Emu video| Emu Edit is an AI generated image model that supports modifying local content of images through text; Emu Video is an AI generated video model that also supports text modification of local content in videos.|[Project website](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)|2023|
 | PixelDance | A novel approach based on diffusion models that incorporates image instructions for both the first and last frames in conjunction with text instructions for video generation. By ByteDance Research | [Project website](https://makepixelsdance.github.io/)|2023|
-| MagicDance | Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer. By University of Southern California| [Github](https://github.com/Boese0601/MagicDance) ![GitHub Repo stars](https://img.shields.io/github/stars/Boese0601/MagicDance?style=social)| 2023 |
+| MagicDance | Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer. By University of Southern California| [Github](https://github.com/Boese0601/MagicDance) ![GitHub Repo stars](https://img.shields.io/github/stars/Boese0601/MagicDance?style=social)| 2023 | 
 | TencentARC/ MotionCtrl|A Unified and Flexible Motion Controller for Video Generation|[Github](https://github.com/TencentARC/MotionCtrl) ![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/MotionCtrl?style=social)| 2023 |
 | DreaMoving |A Human Video Generation Framework based on Diffusion Models. By Alibaba Group|[Github](https://github.com/dreamoving/dreamoving-project)  ![GitHub Repo stars](https://img.shields.io/github/stars/dreamoving/dreamoving-project?style=social)|2023|
+| magicvideov2|Multi-Stage High-Aesthetic Video Generation by ByteDance|[URL](https://magicvideov2.github.io/)|2024|
 
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
