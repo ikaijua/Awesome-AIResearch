@@ -32,6 +32,7 @@ This repo collects AI-related research.
 ### TTS
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+| metavoice-src |Foundational model for human-like, expressive TTS. Zero-shot cloning for American & British voices, with 30s reference audio. |[Github](https://github.com/metavoiceio/metavoice-src) ![GitHub Repo stars](https://img.shields.io/github/stars/metavoiceio/metavoice-src?style=social) |2024|
 | Bark | Multilingual <br> Demo: https://huggingface.co/spaces/suno/bark <br>Paper: https://arxiv.org/abs/2209.03143 |[Github](https://github.com/suno-ai/bark) ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark?style=social) | 2023 |
 | XTTS | Multilingual <br> Demo: https://huggingface.co/spaces/coqui/xtts | [Github](https://github.com/coqui-ai/TTS) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social)| 2021 |
 | OpenVoice | ZH + EN <br>Demo: https://huggingface.co/spaces/myshell-ai/OpenVoice <br>Paper: https://arxiv.org/abs/2312.01479|[Github](https://github.com/myshell-ai/OpenVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social)| 2023 |
