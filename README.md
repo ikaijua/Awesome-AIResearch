@@ -107,6 +107,7 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |open-mmlab/mmdetection|MMDetection is an open source object detection toolbox based on PyTorch. |[Github](https://github.com/open-mmlab/mmdetection) ![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social)||
 |AILab-CVC/YOLO-World|Real-Time Open-Vocabulary Object Detection. By Tencent. |[Github](https://github.com/AILab-CVC/YOLO-World) ![GitHub Repo stars](https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social)|2024|
+|LiheYoung/Depth-Anything|Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation. By 1The University of Hong Kong · 2TikTok · 3Zhejiang Lab · 4Zhejiang University|[Github](https://github.com/LiheYoung/Depth-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/LiheYoung/Depth-Anything?style=social)|2024|
 
 ### Video Super-Resolution
 | Name | Description | Links | Publish Time|
