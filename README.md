@@ -104,6 +104,7 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 |open-mmlab/mmdetection|MMDetection is an open source object detection toolbox based on PyTorch. |[Github](https://github.com/open-mmlab/mmdetection) ![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social)||
+|AILab-CVC/YOLO-World|Real-Time Open-Vocabulary Object Detection. By Tencent. |[Github](https://github.com/AILab-CVC/YOLO-World) ![GitHub Repo stars](https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social)|2024|
 
 ### Video Super-Resolution
 | Name | Description | Links | Publish Time|
