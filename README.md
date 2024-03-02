@@ -136,6 +136,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |surya|Surya is a multilingual document OCR toolkit. It can do: Accurate line-level text detection|[Github](https://github.com/VikParuchuri/surya) ![GitHub Repo stars](https://img.shields.io/github/stars/VikParuchuri/surya?style=social)|2024|
 
+### Visual Speech Processing
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|sally-sh/vsp-llm|Visual Speech Processing incorporated with LLMs|[Github](https://github.com/sally-sh/vsp-llm) ![GitHub Repo stars](https://img.shields.io/github/stars/sally-sh/vsp-llm?style=social)|2024|
+
 ### Star History
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AIResearch&type=Date)](https://star-history.com/#ikaijua/Awesome-AIResearch&Date)
