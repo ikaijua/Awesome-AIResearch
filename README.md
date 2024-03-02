@@ -115,6 +115,7 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 | Upscale-A-Video |  Upscale-A-Video is a diffusion-based model that upscales videos by taking the low-resolution video and text prompts as inputs. S-Lab, Nanyang Technological University|[Github](https://github.com/sczhou/Upscale-A-Video) ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/Upscale-A-Video?style=social)|2023|
+| ComfyUI-SUPIR |SUPIR upscaling wrapper for ComfyUI| [Github](https://github.com/kijai/ComfyUI-SUPIR) ![GitHub Repo stars](https://img.shields.io/github/stars/kijai/ComfyUI-SUPIR?style=social) |2024|
 
 ### Virtual Try-On
 | Name | Description | Links | Publish Time|
