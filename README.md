@@ -139,7 +139,7 @@ This repo collects AI-related research.
 ### Visual Speech Processing
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
-|sally-sh/vsp-llm|Visual Speech Processing incorporated with LLMs|[Github](https://github.com/sally-sh/vsp-llm) ![GitHub Repo stars](https://img.shields.io/github/stars/sally-sh/vsp-llm?style=social)|2024|
+|sally-sh/vsp-llm|Visual Speech Processing incorporated with LLMs <br>paper：https://arxiv.org/abs/2402.15151v1|[Github](https://github.com/sally-sh/vsp-llm) ![GitHub Repo stars](https://img.shields.io/github/stars/sally-sh/vsp-llm?style=social)|2024|
 
 ### Star History
 
