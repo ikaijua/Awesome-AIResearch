@@ -16,6 +16,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |TBC-TJU/MetaBCI|China’s first open-source platform for non-invasive brain computer interface. The project of MetaBCI is led by Prof. Minpeng Xu from Tianjin University, China.|[Github](https://github.com/TBC-TJU/MetaBCI) ![GitHub Repo stars](https://img.shields.io/github/stars/TBC-TJU/MetaBCI?style=social)|2022|
 
+### LLM Datasets
+| Name | Description | Links | Publish Time|
+|----|----|---|---|
+|Awesome-LLMs-Datasets|Summarize existing representative LLMs text datasets.|[Github](https://github.com/lmmlzn/Awesome-LLMs-Datasets) ![GitHub Repo stars](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets?style=social)|2024|
+
 ### LMMs Benchmark
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
