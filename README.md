@@ -121,11 +121,12 @@ This repo collects AI-related research.
 |AILab-CVC/YOLO-World|Real-Time Open-Vocabulary Object Detection. By Tencent. |[Github](https://github.com/AILab-CVC/YOLO-World) ![GitHub Repo stars](https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social)|2024|
 |LiheYoung/Depth-Anything|Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation. By 1The University of Hong Kong · 2TikTok · 3Zhejiang Lab · 4Zhejiang University|[Github](https://github.com/LiheYoung/Depth-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/LiheYoung/Depth-Anything?style=social)|2024|
 
-### Video Super-Resolution
+### Super-Resolution
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 | Upscale-A-Video |  Upscale-A-Video is a diffusion-based model that upscales videos by taking the low-resolution video and text prompts as inputs. S-Lab, Nanyang Technological University|[Github](https://github.com/sczhou/Upscale-A-Video) ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/Upscale-A-Video?style=social)|2023|
 | ComfyUI-SUPIR |SUPIR upscaling wrapper for ComfyUI| [Github](https://github.com/kijai/ComfyUI-SUPIR) ![GitHub Repo stars](https://img.shields.io/github/stars/kijai/ComfyUI-SUPIR?style=social) |2024|
+| APISR |APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024). APISR aims at restoring and enhancing low-quality low-resolution anime images and video sources with various degradations from real-world scenarios.|[Github](https://github.com/Kiteretsu77/APISR)  ![GitHub Repo stars](https://img.shields.io/github/stars/Kiteretsu77/APISR?style=social) |2024|
 
 ### Virtual Try-On
 | Name | Description | Links | Publish Time|
