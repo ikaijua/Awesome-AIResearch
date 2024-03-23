@@ -41,6 +41,7 @@ This repo collects AI-related research.
 ### TTS
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+| Mega-TTS 2 | Input text and reference audio, clone the timbre of the reference audio to generate speech corresponding to the text. By Zhejiang University and ByteDance. Paper：https://arxiv.org/abs/2307.07218|[URL](https://boostprompt.github.io/boostprompt/)|2024|
 | NaturalSpeech 3 |Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models. By Microsoft Research Asia <br>paper: https://arxiv.org/abs/2403.03100|[URL](https://speechresearch.github.io/naturalspeech3/)|2024|
 | BASE TTS | BASE TTS is the largest TTS model to-date, trained on 100K hours of public domain speech data, achieving a new state-of-the-art in speech naturalness. By amazon. <br>paper:https://arxiv.org/abs/2402.08093|[URL](https://amazon-ltts-paper.com/)|2024|
 | metavoice-src |Foundational model for human-like, expressive TTS. Zero-shot cloning for American & British voices, with 30s reference audio. |[Github](https://github.com/metavoiceio/metavoice-src) ![GitHub Repo stars](https://img.shields.io/github/stars/metavoiceio/metavoice-src?style=social) |2024|
