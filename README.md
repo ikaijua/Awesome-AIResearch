@@ -41,6 +41,7 @@ This repo collects AI-related research.
 ### TTS
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|VoiceCraft|VoiceCraft is a token infilling neural codec language model, that achieves state-of-the-art performance on both speech editing and zero-shot text-to-speech (TTS) on in-the-wild data including audiobooks, internet videos, and podcasts.To clone or edit an unseen voice, VoiceCraft needs only a few seconds of reference.|[Github](https://github.com/jasonppy/VoiceCraft) ![GitHub Repo stars](https://img.shields.io/github/stars/jasonppy/VoiceCraft?style=social)|2024|
 | Mega-TTS 2 | Input text and reference audio, clone the timbre of the reference audio to generate speech corresponding to the text. By Zhejiang University and ByteDance. Paper：https://arxiv.org/abs/2307.07218|[URL](https://boostprompt.github.io/boostprompt/)|2024|
 | NaturalSpeech 3 |Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models. By Microsoft Research Asia <br>paper: https://arxiv.org/abs/2403.03100|[URL](https://speechresearch.github.io/naturalspeech3/)|2024|
 | BASE TTS | BASE TTS is the largest TTS model to-date, trained on 100K hours of public domain speech data, achieving a new state-of-the-art in speech naturalness. By amazon. <br>paper:https://arxiv.org/abs/2402.08093|[URL](https://amazon-ltts-paper.com/)|2024|
