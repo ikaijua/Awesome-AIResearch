@@ -123,6 +123,11 @@ This repo collects AI-related research.
 |AILab-CVC/YOLO-World|Real-Time Open-Vocabulary Object Detection. By Tencent. |[Github](https://github.com/AILab-CVC/YOLO-World) ![GitHub Repo stars](https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social)|2024|
 |LiheYoung/Depth-Anything|Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation. By 1The University of Hong Kong · 2TikTok · 3Zhejiang Lab · 4Zhejiang University|[Github](https://github.com/LiheYoung/Depth-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/LiheYoung/Depth-Anything?style=social)|2024|
 
+### Image/Video Enhancements
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+| CodeFormer | Towards Robust Blind Face Restoration with Codebook Lookup Transformer (NeurIPS 2022) . By S-Lab, Nanyang Technological University| [Github](https://github.com/sczhou/CodeFormer) ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/CodeFormer?style=social) | 2023 |
+
 ### Super-Resolution
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
