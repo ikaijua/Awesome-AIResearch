@@ -163,6 +163,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |sally-sh/vsp-llm|Visual Speech Processing incorporated with LLMs <br>paper：https://arxiv.org/abs/2402.15151v1|[Github](https://github.com/sally-sh/vsp-llm) ![GitHub Repo stars](https://img.shields.io/github/stars/sally-sh/vsp-llm?style=social)|2024|
 
+### 3D Human Pose Estimation
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|NationalGAILab/HoT|Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation|[Github](https://github.com/NationalGAILab/HoT) ![GitHub Repo stars](https://img.shields.io/github/stars/NationalGAILab/HoT?style=social)|2024|
+
 ### Star History
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AIResearch&type=Date)](https://star-history.com/#ikaijua/Awesome-AIResearch&Date)
