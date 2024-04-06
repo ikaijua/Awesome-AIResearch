@@ -10,6 +10,11 @@ This repo collects AI-related research.
 | robotics-survey/Awesome-Robotics-Foundation-Models | This repository is largely based on the following paper: [Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/pdf/2312.07843.pdf)  By Stanford University, Princeton University, UT Austin, NVIDIA, Scaled Foundations, Google DeepMind, TU Berlin, Shanghai Jiao Tong University| [Github](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) ![GitHub Repo stars](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models?style=social)|2023|
 | JeffreyYH/robotics-fm-survey | Survey Paper of foundation models for robotics. paper: [oward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782) By CMU, Bosch Center for AI, SAIR Lab, Georgia Tech, FAIR at Meta, UC San Diego, Google DeepMind |[Github](https://github.com/JeffreyYH/robotics-fm-survey) ![GitHub Repo stars](https://img.shields.io/github/stars/JeffreyYH/robotics-fm-survey?style=social)|2023|
 
+### Multi-modal LLM
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+| mPLUG-DocOwl | Modularized Multimodal Large Language Model for Document Understanding. By Alibaba Group | [Github](https://github.com/X-PLUG/mPLUG-DocOwl) ![GitHub Repo stars](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl?style=social)|2024|
+
 ### Vision-Language (VL) Model
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
