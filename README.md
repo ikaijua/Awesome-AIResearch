@@ -103,6 +103,7 @@ This repo collects AI-related research.
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|VASA-1|Lifelike Audio-Driven Talking Faces Generated in Real Time. By Microsoft. paper:https://arxiv.org/abs/2404.10667|[Project Website](https://www.microsoft.com/en-us/research/project/vasa-1/)|2024|
 | GeneFace | Generalized and High-Fidelity 3D Talking Face Synthesis.  Zhejiang University, ByteDance |[Github](https://github.com/yerfor/GeneFace) ![GitHub Repo stars](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)|2023|
 |GAIA|Zero-shot talking avatar generation aims at synthesizing natural talking videos from speech and a single portrait image. GAIA (Generative AI for Avatar), which eliminates the domain priors in talking avatar generation. By Microsoft|[Project Website](https://microsoft.github.io/GAIA/)|2023|
 
