@@ -87,6 +87,7 @@ This repo collects AI-related research.
 | AnyText |Multilingual Visual Text Generation And Editing. By Alibaba Group|[Github](https://github.com/tyxsspa/AnyText) ![GitHub Repo stars](https://img.shields.io/github/stars/tyxsspa/AnyText?style=social)|2023|
 |InstantID| InstantID is a new state-of-the-art tuning-free method to achieve ID-Preserving generation with only single image, supporting various downstream tasks.|[Github](https://github.com/InstantID/InstantID) ![GitHub Repo stars](https://img.shields.io/github/stars/InstantID/InstantID?style=social)|2023|
 | apple/ml-mgie | Guiding Instruction-based Image Editing via Multimodal Large Language Models. By Apple.| [Github](https://github.com/apple/ml-mgie) ![GitHub Repo stars](https://img.shields.io/github/stars/apple/ml-mgie?style=social)| 2024 |
+|lllyasviel/IC-Light|IC-Light is a project to manipulate the illumination of images.|[Github](https://github.com/lllyasviel/IC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/IC-Light?style=social)|2024|
 
 ### Video Generate
 | Name | Description | Links | Publish Time|
