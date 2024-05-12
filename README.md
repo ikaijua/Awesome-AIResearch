@@ -87,7 +87,7 @@ This repo collects AI-related research.
 | AnyText |Multilingual Visual Text Generation And Editing. By Alibaba Group|[Github](https://github.com/tyxsspa/AnyText) ![GitHub Repo stars](https://img.shields.io/github/stars/tyxsspa/AnyText?style=social)|2023|
 |InstantID| InstantID is a new state-of-the-art tuning-free method to achieve ID-Preserving generation with only single image, supporting various downstream tasks.|[Github](https://github.com/InstantID/InstantID) ![GitHub Repo stars](https://img.shields.io/github/stars/InstantID/InstantID?style=social)|2023|
 | apple/ml-mgie | Guiding Instruction-based Image Editing via Multimodal Large Language Models. By Apple.| [Github](https://github.com/apple/ml-mgie) ![GitHub Repo stars](https://img.shields.io/github/stars/apple/ml-mgie?style=social)| 2024 |
-|lllyasviel/IC-Light|IC-Light is a project to manipulate the illumination of images.|[Github](https://github.com/lllyasviel/IC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/IC-Light?style=social)|2024|
+|lllyasviel/IC-Light|IC-Light is a project to manipulate the illumination of images. Demo：https://huggingface.co/spaces/lllyasviel/IC-Light|[Github](https://github.com/lllyasviel/IC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/IC-Light?style=social)|2024|
 
 ### Video Generate
 | Name | Description | Links | Publish Time|
@@ -106,6 +106,7 @@ This repo collects AI-related research.
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|X-LANCE/AniTalker|Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding|[Github](https://github.com/X-LANCE/AniTalker) ![GitHub Repo stars](https://img.shields.io/github/stars/X-LANCE/AniTalker?style=social)|2024|
 |VASA-1|Lifelike Audio-Driven Talking Faces Generated in Real Time. By Microsoft. paper:https://arxiv.org/abs/2404.10667|[Project Website](https://www.microsoft.com/en-us/research/project/vasa-1/)|2024|
 | GeneFace | Generalized and High-Fidelity 3D Talking Face Synthesis.  Zhejiang University, ByteDance |[Github](https://github.com/yerfor/GeneFace) ![GitHub Repo stars](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)|2023|
 |GAIA|Zero-shot talking avatar generation aims at synthesizing natural talking videos from speech and a single portrait image. GAIA (Generative AI for Avatar), which eliminates the domain priors in talking avatar generation. By Microsoft|[Project Website](https://microsoft.github.io/GAIA/)|2023|
