@@ -175,6 +175,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |NationalGAILab/HoT|Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation|[Github](https://github.com/NationalGAILab/HoT) ![GitHub Repo stars](https://img.shields.io/github/stars/NationalGAILab/HoT?style=social)|2024|
 
+### Computer Vision
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|GeneOH-Diffusion| Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion| [Github](https://github.com/Meowuu7/GeneOH-Diffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/Meowuu7/GeneOH-Diffusion?style=social)|2024|
+
 ### Star History
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AIResearch&type=Date)](https://star-history.com/#ikaijua/Awesome-AIResearch&Date)
