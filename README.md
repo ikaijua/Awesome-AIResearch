@@ -1,5 +1,10 @@
 This repo collects AI-related research. 
 
+### Spatial Intelligence
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|Behavior Vision Suite|BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation|[Project website](https://behavior-vision-suite.github.io/)|2024|
+
 ### Robot
 
 | Name | Description | Links | Publish Time|
