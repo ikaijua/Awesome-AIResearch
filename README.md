@@ -111,6 +111,7 @@ This repo collects AI-related research.
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|InstructAvatar|InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation. By Peking University|[Project website](https://wangyuchi369.github.io/InstructAvatar/)|2024|
 |X-LANCE/AniTalker|Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding|[Github](https://github.com/X-LANCE/AniTalker) ![GitHub Repo stars](https://img.shields.io/github/stars/X-LANCE/AniTalker?style=social)|2024|
 |VASA-1|Lifelike Audio-Driven Talking Faces Generated in Real Time. By Microsoft. paper:https://arxiv.org/abs/2404.10667|[Project Website](https://www.microsoft.com/en-us/research/project/vasa-1/)|2024|
 | GeneFace | Generalized and High-Fidelity 3D Talking Face Synthesis.  Zhejiang University, ByteDance |[Github](https://github.com/yerfor/GeneFace) ![GitHub Repo stars](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)|2023|
