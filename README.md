@@ -109,6 +109,7 @@ This repo collects AI-related research.
 | Boximator |Generating Rich and Controllable Motions for Video Synthesis. By ByteDance|[URL](https://boximator.github.io/)|2024|
 | fudan-generative-vision/champ | Controllable and Consistent Human Image Animation with 3D Parametric Guidance | [Github](https://github.com/fudan-generative-vision/champ) ![GitHub Repo stars](https://img.shields.io/github/stars/fudan-generative-vision/champ?style=social) |2024|
 | TaoHuUMD/SurMo |Surface-based 4D Motion Modeling for Dynamic Human|[Github](https://github.com/TaoHuUMD/SurMo) ![GitHub Repo stars](https://img.shields.io/github/starsTaoHuUMD/SurMo?style=social)|2024|
+| ToonCrafter |A research paper for generative cartoon interpolation|[Github](https://github.com/ToonCrafter/ToonCrafter) ![GitHub Repo stars](https://img.shields.io/github/ToonCrafter/ToonCrafter?style=social)|2024|
 
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
