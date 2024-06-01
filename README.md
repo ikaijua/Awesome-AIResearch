@@ -162,6 +162,7 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 | OutfitAnyone |  Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person. Institute for Intelligent Computing, Alibaba Group|[Github](https://github.com/HumanAIGC/OutfitAnyone) ![GitHub Repo stars](https://img.shields.io/github/stars/HumanAIGC/OutfitAnyone?style=social)|2023|
 | OOTDiffusion | Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on |[Github](https://github.com/levihsu/OOTDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/levihsu/OOTDiffusion?style=social) Demo:https://ootd.ibot.cn/|2024|
+| ViViD |ViViD: Video Virtual Try-on using Diffusion Models. By Alibaba|[Github](https://github.com/alibaba-yuanjing-aigclab/ViViD) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba-yuanjing-aigclab/ViViD?style=social) |2024|
 
 ### AI Muisc Generation
 | Name | Description | Links | Publish Time|
