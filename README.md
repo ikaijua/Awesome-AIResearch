@@ -95,6 +95,11 @@ This repo collects AI-related research.
 | apple/ml-mgie | Guiding Instruction-based Image Editing via Multimodal Large Language Models. By Apple.| [Github](https://github.com/apple/ml-mgie) ![GitHub Repo stars](https://img.shields.io/github/stars/apple/ml-mgie?style=social)| 2024 |
 |lllyasviel/IC-Light|IC-Light is a project to manipulate the illumination of images. Demo：https://huggingface.co/spaces/lllyasviel/IC-Light|[Github](https://github.com/lllyasviel/IC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/IC-Light?style=social)|2024|
 
+### Sign Language
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|SignLLM/Prompt2Sign|Prompt2Sign is first comprehensive multilingual sign language dataset, which uses tools to automate the acquisition and processing of sign language videos on the web, is an evolving data set that is efficient, lightweight, reducing the previous shortcomings. |[Github](https://github.com/SignLLM/Prompt2Sign)  ![GitHub Repo stars](https://img.shields.io/github/stars/SignLLM/Prompt2Sign?style=social)|2024|
+
 ### Video Generate
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
