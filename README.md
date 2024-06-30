@@ -162,6 +162,7 @@ This repo collects AI-related research.
 | Upscale-A-Video |  Upscale-A-Video is a diffusion-based model that upscales videos by taking the low-resolution video and text prompts as inputs. S-Lab, Nanyang Technological University|[Github](https://github.com/sczhou/Upscale-A-Video) ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/Upscale-A-Video?style=social)|2023|
 | ComfyUI-SUPIR |SUPIR upscaling wrapper for ComfyUI| [Github](https://github.com/kijai/ComfyUI-SUPIR) ![GitHub Repo stars](https://img.shields.io/github/stars/kijai/ComfyUI-SUPIR?style=social) |2024|
 | APISR |APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024). APISR aims at restoring and enhancing low-quality low-resolution anime images and video sources with various degradations from real-world scenarios.|[Github](https://github.com/Kiteretsu77/APISR)  ![GitHub Repo stars](https://img.shields.io/github/stars/Kiteretsu77/APISR?style=social) |2024|
+|EvTexture|Event-driven Texture Enhancement for Video Super-Resolution. By University of Science and Technology of China|[Github](https://github.com/DachunKai/EvTexture) ![GitHub Repo stars](https://img.shields.io/github/stars/DachunKai/EvTexture?style=social) |2024|
 
 ### Virtual Try-On
 | Name | Description | Links | Publish Time|
