@@ -5,6 +5,12 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |Behavior Vision Suite|BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation|[Project website](https://behavior-vision-suite.github.io/)|2024|
 
+### Distributed Training Framework
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|DeepSpeed|DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.|[Github](https://github.com/microsoft/DeepSpeed) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social)|-|
+|Megatron-LM|Ongoing research training transformer models at scale.|[Github](https://github.com/NVIDIA/Megatron-LM) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social)|-|
+
 ### Robot
 
 | Name | Description | Links | Publish Time|
