@@ -133,10 +133,11 @@ This repo collects AI-related research.
 | GeneFace | Generalized and High-Fidelity 3D Talking Face Synthesis.  Zhejiang University, ByteDance |[Github](https://github.com/yerfor/GeneFace) ![GitHub Repo stars](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)|2023|
 |GAIA|Zero-shot talking avatar generation aims at synthesizing natural talking videos from speech and a single portrait image. GAIA (Generative AI for Avatar), which eliminates the domain priors in talking avatar generation. By Microsoft|[Project Website](https://microsoft.github.io/GAIA/)|2023|
 
-### Video Comprehensio
+### Video Comprehension
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 |PKU-YuanGroup/Video-LLaVA| Video-LLaVA: Learning United Visual Representation by Alignment Before Projection | [Github](https://github.com/PKU-YuanGroup/Video-LLaVA) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA?style=social)|2023|
+|evolvinglmms-lab/longva|Long Context Transfer from Language to Vision|[Github](https://github.com/evolvinglmms-lab/longva) ![GitHub Repo stars](https://img.shields.io/github/stars/evolvinglmms-lab/longva?style=social)|2024|
 
 ### Data Cleaning
 | Name | Description | Links | Publish Time|
