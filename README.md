@@ -186,6 +186,7 @@ This repo collects AI-related research.
 ### RAG(Retrieval-Augmented Generation)
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|microsoft/graphrag|A modular graph-based Retrieval-Augmented Generation (RAG) system|[Github](https://github.com/microsoft/graphrag) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)|2024|
 |Retrieval-Augmented Generation for Large Language Models: A Survey| Shanghai Research Institute for Intelligent Autonomous Systems|[URL](https://arxiv.org/abs/2312.10997)|2023|
 
 ### OCR
