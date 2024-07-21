@@ -137,7 +137,7 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 |PKU-YuanGroup/Video-LLaVA| Video-LLaVA: Learning United Visual Representation by Alignment Before Projection | [Github](https://github.com/PKU-YuanGroup/Video-LLaVA) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA?style=social)|2023|
-|evolvinglmms-lab/longva|Long Context Transfer from Language to Vision|[Github](https://github.com/evolvinglmms-lab/longva) ![GitHub Repo stars](https://img.shields.io/github/stars/evolvinglmms-lab/longva?style=social)|2024|
+|evolvinglmms-lab/longva|Long Context Transfer from Language to Vision. <br>介绍文章：<br>机器之心：[7B最强长视频模型！ LongVA视频理解超千帧，霸榜多个榜单](https://www.jiqizhixin.com/articles/2024-07-15-7)|[Github](https://github.com/evolvinglmms-lab/longva) ![GitHub Repo stars](https://img.shields.io/github/stars/evolvinglmms-lab/longva?style=social)|2024|
 
 ### Data Cleaning
 | Name | Description | Links | Publish Time|
