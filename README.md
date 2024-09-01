@@ -110,6 +110,7 @@ This repo collects AI-related research.
 ### Video Generate
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|THUDM/CogVideo|CogVideoX is an open-source version of the video generation model|[Github](https://github.com/THUDM/CogVideo) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social)|2024|
 |MusePose|MusePose is a diffusion-based and pose-guided virtual human video generation framework.By Tencent.|[Github](https://github.com/TMElyralab/MusePose) ![GitHub Repo stars](https://img.shields.io/github/stars/TMElyralab/MusePose?style=social)|2024|
 | ProPainter |Improving Propagation and Transformer for Video Inpainting. S-Lab, Nanyang Technological University|[Github](https://github.com/sczhou/ProPainter) ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/ProPainter?style=social)|2023|
 | Emu Edit/Emu video| Emu Edit is an AI generated image model that supports modifying local content of images through text; Emu Video is an AI generated video model that also supports text modification of local content in videos.|[Project website](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)|2023|
