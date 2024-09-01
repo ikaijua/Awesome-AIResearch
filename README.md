@@ -173,6 +173,7 @@ This repo collects AI-related research.
 | ComfyUI-SUPIR |SUPIR upscaling wrapper for ComfyUI| [Github](https://github.com/kijai/ComfyUI-SUPIR) ![GitHub Repo stars](https://img.shields.io/github/stars/kijai/ComfyUI-SUPIR?style=social) |2024|
 | APISR |APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024). APISR aims at restoring and enhancing low-quality low-resolution anime images and video sources with various degradations from real-world scenarios.|[Github](https://github.com/Kiteretsu77/APISR)  ![GitHub Repo stars](https://img.shields.io/github/stars/Kiteretsu77/APISR?style=social) |2024|
 |EvTexture|Event-driven Texture Enhancement for Video Super-Resolution. By University of Science and Technology of China|[Github](https://github.com/DachunKai/EvTexture) ![GitHub Repo stars](https://img.shields.io/github/stars/DachunKai/EvTexture?style=social) |2024|
+|jnjaby/KEEP|Kalman-Inspired Feature Propagation for Video Face Super-Resolution. By S-Lab, Nanyang Technological University.ECCV 2024|[Github](https://github.com/jnjaby/KEEP) ![GitHub Repo stars](https://img.shields.io/github/stars/jnjaby/KEEP?style=social)||
 
 ### Virtual Try-On
 | Name | Description | Links | Publish Time|
