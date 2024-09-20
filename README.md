@@ -215,6 +215,7 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |GeneOH-Diffusion| Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion| [Github](https://github.com/Meowuu7/GeneOH-Diffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/Meowuu7/GeneOH-Diffusion?style=social)|2024|
 |Efficient-Large-Model/VILA|VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)|[Github](https://github.com/Efficient-Large-Model/VILA) ![GitHub Repo stars](https://img.shields.io/github/stars/Efficient-Large-Model/VILA?style=social)|2024|
+|roboflow/supervision|We write your reusable computer vision tools.|[Github](https://github.com/roboflow/supervision) ![GitHub Repo stars](https://img.shields.io/github/stars/roboflow/supervision?style=social) |2023|
 
 ### Star History
 
