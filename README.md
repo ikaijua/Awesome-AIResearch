@@ -141,6 +141,7 @@ This repo collects AI-related research.
 ### Video Comprehension
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|VLMEvalKit|Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks. |[Github](https://github.com/open-compass/VLMEvalKit) ![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/VLMEvalKit?style=social)|2024|
 |NVlabs/VILA|a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)|[Github](https://github.com/NVlabs/VILA) ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social)|2024|
 |PKU-YuanGroup/Video-LLaVA| Video-LLaVA: Learning United Visual Representation by Alignment Before Projection | [Github](https://github.com/PKU-YuanGroup/Video-LLaVA) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA?style=social)|2023|
 |evolvinglmms-lab/longva|Long Context Transfer from Language to Vision. <br>介绍文章：<br>机器之心：[7B最强长视频模型！ LongVA视频理解超千帧，霸榜多个榜单](https://www.jiqizhixin.com/articles/2024-07-15-7)|[Github](https://github.com/evolvinglmms-lab/longva) ![GitHub Repo stars](https://img.shields.io/github/stars/evolvinglmms-lab/longva?style=social)|2024|
