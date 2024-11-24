@@ -204,6 +204,7 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 |surya|Surya is a multilingual document OCR toolkit. It can do: Accurate line-level text detection|[Github](https://github.com/VikParuchuri/surya) ![GitHub Repo stars](https://img.shields.io/github/stars/VikParuchuri/surya?style=social)|2024|
+|Nutlope/llama-ocr|Document to Markdown OCR library with Llama 3.2 vision|[Github](https://github.com/Nutlope/llama-ocr) ![GitHub Repo stars](https://img.shields.io/github/stars/Nutlope/llama-ocr?style=social)|2024|
 
 ### Visual Speech Processing
 | Name | Description | Links | Publish Time|
