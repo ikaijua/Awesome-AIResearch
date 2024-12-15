@@ -32,6 +32,8 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |DeepSeek-VL|An open-source Vision-Language (VL) Model designed for real-world vision and language understanding applications. DeepSeek-VL possesses general multimodal understanding capabilities, capable of processing logical diagrams, web pages, formula recognition, scientific literature, natural images, and embodied intelligence in complex scenarios.|[Github](https://github.com/deepseek-ai/DeepSeek-VL) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL?style=social)|2024|
 |An Introduction to Vision-Language Modeling|An Introduction to Vision-Language Modeling. By Meta.|[URL](https://arxiv.org/abs/2405.17247)|2024|
+|Insight-V|Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models. By 1S-Lab, NTU. |[Github](https://github.com/dongyh20/Insight-V) ![GitHub Repo stars](https://img.shields.io/github/stars/dongyh20/Insight-V?style=social)|2024|
+
 ### Brain Computer Interface
 
 | Name | Description | Links | Publish Time|
