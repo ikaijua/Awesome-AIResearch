@@ -5,6 +5,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |Behavior Vision Suite|BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation|[Project website](https://behavior-vision-suite.github.io/)|2024|
 
+### AI Agent
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|TEN-Agent|TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).|[TEN-Agent](https://github.com/TEN-framework/TEN-Agent) ![GitHub Repo stars](https://img.shields.io/github/stars/TEN-framework/TEN-Agent?style=social)|2024|
+
 ### Distributed Training Framework
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
