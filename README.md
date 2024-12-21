@@ -44,6 +44,11 @@ This repo collects AI-related research.
 | ---- | ----------------------------- | --- | --- |
 |NeRF|Code release for NeRF (Neural Radiance Fields). Paper: https://arxiv.org/abs/2003.08934|[Github](https://github.com/bmild/nerf) ![GitHub Repo stars](https://img.shields.io/github/stars/bmild/nerf?style=social)|2020|
 
+### 3D Gaussian Splatting
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|gaussian-splatting|Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering".|[Github](https://github.com/graphdeco-inria/gaussian-splatting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social)|2020|
+
 ### Brain Computer Interface
 
 | Name | Description | Links | Publish Time|
