@@ -39,6 +39,11 @@ This repo collects AI-related research.
 |An Introduction to Vision-Language Modeling|An Introduction to Vision-Language Modeling. By Meta.|[URL](https://arxiv.org/abs/2405.17247)|2024|
 |Insight-V|Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models. By 1S-Lab, NTU. |[Github](https://github.com/dongyh20/Insight-V) ![GitHub Repo stars](https://img.shields.io/github/stars/dongyh20/Insight-V?style=social)|2024|
 
+### NeRF
+| Name | Description | Links | Publish Time|
+| ---- | ----------------------------- | --- | --- |
+|NeRF|Code release for NeRF (Neural Radiance Fields). Paper: https://arxiv.org/abs/2003.08934|[Github](https://github.com/bmild/nerf) ![GitHub Repo stars](https://img.shields.io/github/stars/bmild/nerf?style=social)|2020|
+
 ### Brain Computer Interface
 
 | Name | Description | Links | Publish Time|
