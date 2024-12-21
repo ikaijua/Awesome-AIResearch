@@ -47,7 +47,7 @@ This repo collects AI-related research.
 ### 3D Gaussian Splatting
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
-|gaussian-splatting|Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering".|[Github](https://github.com/graphdeco-inria/gaussian-splatting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social)|2020|
+|gaussian-splatting|Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering".|[Github](https://github.com/graphdeco-inria/gaussian-splatting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social)|2023|
 
 ### Brain Computer Interface
 
