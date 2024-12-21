@@ -129,6 +129,8 @@ This repo collects AI-related research.
 ### Video Generate
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+| Lightricks/LTX-Video |LTX-Video is the first DiT-based video generation model that can generate high-quality videos in real-time. |[Github](https://github.com/Lightricks/LTX-Video) 
+ ![GitHub Repo stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social)|2024|
 | AILab-CVC/VideoGen-Eval |By Tencent. The Dawn of Video Generation: Preliminary Explorations with SORA-like Models|[Github](https://github.com/AILab-CVC/VideoGen-Eval) ![GitHub Repo stars](https://img.shields.io/github/stars/AILab-CVC/VideoGen-Eval?style=social)|2024|
 |THUDM/CogVideo|CogVideoX is an open-source version of the video generation model|[Github](https://github.com/THUDM/CogVideo) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social)|2024|
 |MusePose|MusePose is a diffusion-based and pose-guided virtual human video generation framework.By Tencent.|[Github](https://github.com/TMElyralab/MusePose) ![GitHub Repo stars](https://img.shields.io/github/stars/TMElyralab/MusePose?style=social)|2024|
