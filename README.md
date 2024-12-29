@@ -149,6 +149,7 @@ This repo collects AI-related research.
 ### Talking Face Synthesis
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|INFP|INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations. By ByteDance. |[Project website](https://grisoon.github.io/INFP/)|2024|
 |PersonaTalk|PersonaTalk creates lip-sync visual dubbing while preserving indivisuals' talking style and facial details. Paper: https://arxiv.org/pdf/2409.05379|[Porject website](https://grisoon.github.io/PersonaTalk)|2024|
 |Loopy|Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency. By Bytedance and Zhejiang University|[Project website](https://loopyavatar.github.io/)|2024|
 |V-Express|V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images. By Tencent.|[Github](https://github.com/tencent-ailab/V-Express) ![GitHub Repo stars](https://img.shields.io/github/stars/tencent-ailab/V-Express?style=social)|2024|
