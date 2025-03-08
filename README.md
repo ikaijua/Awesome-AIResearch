@@ -9,6 +9,8 @@ This repo collects AI-related research.
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
 |TEN-Agent|TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).|[TEN-Agent](https://github.com/TEN-framework/TEN-Agent) ![GitHub Repo stars](https://img.shields.io/github/stars/TEN-framework/TEN-Agent?style=social)|2024|
+|TIGER-AI-Lab/TheoremExplainAgent|TheoremExplainAgent is an AI system that generates long-form Manim videos to visually explain theorems, proving its deep understanding while uncovering reasoning flaws that text alone often hides.|[TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/TheoremExplainAgent?style=social)|2025|
+
 
 ### Distributed Training Framework
 | Name | Description | Links | Publish Time|
