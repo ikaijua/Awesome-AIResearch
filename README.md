@@ -65,7 +65,7 @@ This repo collects AI-related research.
 ### LMMs Benchmark
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
-｜SuperGPQA｜SuperGPQA is a comprehensive benchmark that evaluates graduate-level knowledge and reasoning capabilities across 285 disciplines.｜[Github](https://github.com/SuperGPQA/SuperGPQA) ![GitHub Repo stars](https://img.shields.io/github/stars/SuperGPQA/SuperGPQA?style=social)｜2025｜
+| SuperGPQA| SuperGPQA is a comprehensive benchmark that evaluates graduate-level knowledge and reasoning capabilities across 285 disciplines.| [Github](https://github.com/SuperGPQA/SuperGPQA) ![GitHub Repo stars](https://img.shields.io/github/stars/SuperGPQA/SuperGPQA?style=social)|2025|
 | mathvista | A benchmark designed to combine challenges from diverse mathematical and visual tasks. By UCLA and Microsoft Research| [Project website](https://mathvista.github.io/)| 2023|
 | hallucination-leaderboard | Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents. |[Github](https://github.com/vectara/hallucination-leaderboard) ![GitHub Repo stars](https://img.shields.io/github/stars/vectara/hallucination-leaderboard?style=social)| 2023 |
 | GAIA| A benchmark for General AI Assistants. By Meta-FAIR, Meta-GenAI, HuggingFace and AutoGPT|[Project website](https://huggingface.co/papers/2311.12983)|2023|
