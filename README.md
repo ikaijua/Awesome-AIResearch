@@ -79,6 +79,7 @@ This repo collects AI-related research.
 ### TTS
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+|SparkAudio/Spark-TTS|An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens|[Github](https://github.com/SparkAudio/Spark-TTS) ![GitHub Repo stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social)|2025|
 | F5-TTS |By A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching. By Shanghai Jiao Tong University. |[Github](https://github.com/SWivid/F5-TTS) ![GitHub Repo stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social)|2024|
 | fishaudio/fish-speech |Brand new TTS solution. Demo: https://fish.audio/|[Github](https://github.com/fishaudio/fish-speech)  ![GitHub Repo stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social)|2024|
 |VoiceCraft|VoiceCraft is a token infilling neural codec language model, that achieves state-of-the-art performance on both speech editing and zero-shot text-to-speech (TTS) on in-the-wild data including audiobooks, internet videos, and podcasts.To clone or edit an unseen voice, VoiceCraft needs only a few seconds of reference.|[Github](https://github.com/jasonppy/VoiceCraft) ![GitHub Repo stars](https://img.shields.io/github/stars/jasonppy/VoiceCraft?style=social)|2024|
