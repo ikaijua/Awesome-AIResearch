@@ -135,6 +135,7 @@ This repo collects AI-related research.
 ### Video Generate
 | Name | Description | Links | Publish Time|
 | ---- | ----------------------------- | --- | --- |
+| Netflix VOID |Video Object and Interaction Deletion. A physics-aware video inpainting research that understands causal relationships and maintains scene consistency. |[Github](https://github.com/Netflix/void-model) ![GitHub Repo stars](https://img.shields.io/github/stars/Netflix/void-model?style=social)|2026|
 | Lightricks/LTX-Video |LTX-Video is the first DiT-based video generation model that can generate high-quality videos in real-time. |[Github](https://github.com/Lightricks/LTX-Video) 
  ![GitHub Repo stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social)|2024|
 | AILab-CVC/VideoGen-Eval |By Tencent. The Dawn of Video Generation: Preliminary Explorations with SORA-like Models|[Github](https://github.com/AILab-CVC/VideoGen-Eval) ![GitHub Repo stars](https://img.shields.io/github/stars/AILab-CVC/VideoGen-Eval?style=social)|2024|
